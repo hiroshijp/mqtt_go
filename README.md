@@ -1,6 +1,8 @@
 # "MQTTサーバーを実装しながらGo言語を学ぶ"のトレーニング
-bati11さんの[記事](https://bati11blog.hatenablog.com/)を参考にし、完了したものにはやったことを書いていく
+bati11さんの[記事](https://bati11blog.hatenablog.com/)を参考にし、完了したものにはやったことを書いていく.  
+Goのバージョンは1.20.6
 
+## 
 1. https://bati11blog.hatenablog.com/entry/2019/01/12/163021  
     - mqtt固定ヘッダーの実装ことはじめ
     - testの書き方
@@ -26,3 +28,6 @@ bati11さんの[記事](https://bati11blog.hatenablog.com/)を参考にし、完
 1. https://bati11blog.hatenablog.com/entry/2019/05/04/172551
 1. https://bati11blog.hatenablog.com/entry/2019/05/06/224639
 1. https://bati11blog.hatenablog.com/entry/2019/05/12/204358
+
+## 参考リンク集
+[bati11さんが参考にしている人](https://budougumi0617.github.io/)
